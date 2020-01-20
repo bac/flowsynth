@@ -1,2 +1,2 @@
 scapy>=2.4.0
-argparse
+argparse==1.4.0
